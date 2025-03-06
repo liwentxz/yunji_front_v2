@@ -1,0 +1,38 @@
+.panel-container {
+  width: auto;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+.cardBox {
+  margin: 6px;
+}
+
+.card-header-box {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-bottom: 1px solid #cecece;
+}
+
+.card-header-icon {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 40px;
+  color: #53a8fd;
+}
+
+.card-header-text {
+  width: 100px;
+  height: 40px;
+  font-size: 16px;
+  line-height: 40px;
+}
+
+.cardContent {
+  padding: 5px;
+}
